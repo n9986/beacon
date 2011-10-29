@@ -9,8 +9,8 @@ body
 
 #guide {
 
-    color: #000000; font-size: 1.0em; 
-    font-family: sans-serif, Verdana, Arial, Helvetica;    
+    color: #000000; font-size: 1.0em;
+    font-family: sans-serif, Verdana, Arial, Helvetica;
 
 }
 
@@ -22,7 +22,7 @@ body
 #sideContent {
     float: right;
     width: 15%; padding: 4px;
-    margin-left:4px; 
+    margin-left:4px;
     background-color: #dddaec;
 }
 
@@ -59,13 +59,13 @@ body
     border: none;
 }
 
-.chaphead { 
-    font-size: 1.3em; 
-    font-weight: bold; 
+.chaphead {
+    font-size: 1.3em;
+    font-weight: bold;
 }
 
 dt {
-    font-weight: bold; 
+    font-weight: bold;
 }
 
 
@@ -76,13 +76,13 @@ dt {
     font-weight: bold;
 }
 
-.chaphead { 
-    font-size: 1.3em; 
-    font-weight: bold; 
+.chaphead {
+    font-size: 1.3em;
+    font-weight: bold;
 }
 
 dt {
-    font-weight: bold; 
+    font-weight: bold;
 }
 
 .chapnum {
@@ -163,11 +163,11 @@ ol,ul {margin-top: 5px;}
     padding: 0.5em;
     margin-top: 1.0em;
     margin-left: 1.0em;
-    margin-bottom: 1.0em; 
+    margin-bottom: 1.0em;
 }
 
 .codetitle {
-    font-size: 0.9em;	
+    font-size: 0.9em;
     font-family: sans-serif, Verdana, Arial, Helvetica;
     padding: 0.25em;
     margin-left: 1.0em;
@@ -178,7 +178,7 @@ ol,ul {margin-top: 5px;}
 }
 
 .infohead {
-    font-size: 0.80em;	
+    font-size: 0.80em;
     font-family: sans-serif, Verdana, Arial, Helvetica;
     /*	padding: 0.25em; */
     padding-top: 0.2em;
@@ -214,7 +214,7 @@ ol,ul {margin-top: 5px;}
 }
 
 .infotext {
-    font-size: 0.85em;	
+    font-size: 0.85em;
     font-family: sans-serif, Verdana, Arial, Helvetica;
     color: #320f61;
     margin-left: 1.5em;
@@ -243,7 +243,7 @@ ol,ul {margin-top: 5px;}
     color: #404040;
 }
 
-.copyright a:hover { 
+.copyright a:hover {
     text-decoration: underline;
     color: #4040f0;
 
@@ -260,7 +260,7 @@ ol,ul {margin-top: 5px;}
     /*padding: 3em;*/
     padding-top: 0em;
     padding-left: 1.0em;
-    padding-right: 1.0em; 
+    padding-right: 1.0em;
     font-family: sans-serif, Verdana, Arial, Helvetica;
     font-size: 1em;
 }
@@ -296,7 +296,7 @@ pre {
 
 .news {
     padding-left: 1.0em;
-    padding-right: 1.0em; 
+    padding-right: 1.0em;
     color: black;
     background-color: white;
     font-family: sans-serif, Verdana, Arial, Helvetica;
@@ -314,7 +314,7 @@ pre {
     padding-top: 0.4em;
     padding-bottom: 0.4em;
     padding-left: 1.0em;
-    padding-right: 1.0em; 
+    padding-right: 1.0em;
     color: white;
     text-align: left;
     clear:both;
@@ -438,9 +438,9 @@ SUP, SUB {font-size:xx-small;}
     padding-right: 1.0em;
     padding-top: 0.2em;
     padding-bottom: 0.2em;
-    font-size: 0.75em; 
+    font-size: 0.75em;
     background: #ddddff;
-    font-weight: bold; 
+    font-weight: bold;
     font-family: sans-serif, Verdana, Arial, Helvetica;
     vertical-align: top;
 }
@@ -481,7 +481,7 @@ LI {
     margin: 0em;
     margin-left: 20px;
     font-family: sans-serif, Verdana, Arial, Helvetica;
-    line-height: 1.25em; 
+    line-height: 1.25em;
     /*	border: 3px coral solid;*/
     border: 3px white solid;
 }
